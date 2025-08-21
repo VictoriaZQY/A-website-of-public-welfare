@@ -20,5 +20,11 @@ https://github.com/VictoriaZQY/A-website-of-public-welfare/blob/main/4_system_fi
 ## Database
 ![Database ER Diagram](https://github.com/user-attachments/assets/de4cf853-ea6d-4ebf-9d2c-cb366cc3abc3)
 
+## Video
+https://www.capcut.cn/share/7504674417348351257?t=1
+
+## Presentation Slides
+https://www.canva.cn/design/DAGkC06vkyA/UBn37SXdQ3gv8RugSkQ9-w/view?utm_content=DAGkC06vkyA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc1345c524
+
 ## Commits History
 <img width="1478" height="816" alt="CI_CD" src="https://github.com/user-attachments/assets/08119892-b11d-4414-8202-74c2c723a61e" />
